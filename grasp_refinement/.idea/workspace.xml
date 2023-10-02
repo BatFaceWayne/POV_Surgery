@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c799979-381b-439d-b343-e483765bbdd3" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GraspTTA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GraspTTA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interpolate.py" beforeDir="false" afterPath="$PROJECT_DIR$/interpolate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metric/simulate.py" beforeDir="false" afterPath="$PROJECT_DIR$/metric/simulate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/003_cracker_box/resample_face_id.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/003_cracker_box/resample_face_id.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/003_cracker_box/resampled.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/003_cracker_box/resampled.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/004_sugar_box/resample_face_id.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/004_sugar_box/resample_face_id.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/004_sugar_box/resampled.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/004_sugar_box/resampled.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/006_mustard_bottle/resample_face_id.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/006_mustard_bottle/resample_face_id.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/006_mustard_bottle/resampled.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/006_mustard_bottle/resampled.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/010_potted_meat_can/resample_face_id.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/010_potted_meat_can/resample_face_id.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/010_potted_meat_can/resampled.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/010_potted_meat_can/resampled.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/011_banana/resample_face_id.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/011_banana/resample_face_id.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/011_banana/resampled.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/011_banana/resampled.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/019_pitcher_base/resample_face_id.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/019_pitcher_base/resample_face_id.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/019_pitcher_base/resampled.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/019_pitcher_base/resampled.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/021_bleach_cleanser/resample_face_id.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/021_bleach_cleanser/resample_face_id.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/021_bleach_cleanser/resampled.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/021_bleach_cleanser/resampled.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/025_mug/resample_face_id.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/025_mug/resample_face_id.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/025_mug/resampled.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/025_mug/resampled.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/035_power_drill/resample_face_id.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/035_power_drill/resample_face_id.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/035_power_drill/resampled.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/035_power_drill/resampled.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/037_scissors/resample_face_id.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/037_scissors/resample_face_id.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/037_scissors/resampled.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/037_scissors/resampled.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/099_scalpel_tool/resample_face_id.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/099_scalpel_tool/resample_face_id.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/HO3D_Object_models/099_scalpel_tool/resampled.npy" beforeDir="false" afterPath="$PROJECT_DIR$/models/HO3D_Object_models/099_scalpel_tool/resampled.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_gen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/loss.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CIDNMng9xW2pvp44x1v3mFlR1T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/rui/projects/sp2_ws/GraspTTA/interpolate.py",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.idesettings.debugger.python",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.interpolate">
+    <configuration name="gen_diverse_grasp_ho3d" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GraspTTA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/grasptta/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gen_diverse_grasp_ho3d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="interpolate" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GraspTTA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/grasptta/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interpolate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_gen" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GraspTTA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_gen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.gen_diverse_grasp_ho3d" />
+      <item itemvalue="Python.interpolate" />
+      <item itemvalue="Python.new_gen" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c799979-381b-439d-b343-e483765bbdd3" name="Changes" comment="" />
+      <created>1658481164331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658481164331</updated>
+      <workItem from="1658481165530" duration="1330000" />
+      <workItem from="1658777826058" duration="63000" />
+      <workItem from="1658837230910" duration="1230000" />
+      <workItem from="1658905689398" duration="887000" />
+      <workItem from="1658906622397" duration="11692000" />
+      <workItem from="1659019284384" duration="8777000" />
+      <workItem from="1659028796414" duration="5697000" />
+      <workItem from="1659088048842" duration="3459000" />
+      <workItem from="1659432959093" duration="4568000" />
+      <workItem from="1659470225549" duration="8331000" />
+      <workItem from="1659973924453" duration="599000" />
+      <workItem from="1660469856554" duration="5029000" />
+      <workItem from="1660646518797" duration="607000" />
+      <workItem from="1660677211644" duration="1036000" />
+      <workItem from="1660682907603" duration="4642000" />
+      <workItem from="1660815722144" duration="8590000" />
+      <workItem from="1660851875277" duration="2930000" />
+      <workItem from="1660914823911" duration="3314000" />
+      <workItem from="1660929310699" duration="3875000" />
+      <workItem from="1661415942884" duration="322000" />
+      <workItem from="1661505420178" duration="5468000" />
+      <workItem from="1661591433365" duration="599000" />
+      <workItem from="1661712484789" duration="14943000" />
+      <workItem from="1662017625393" duration="25000" />
+      <workItem from="1662112204963" duration="5960000" />
+      <workItem from="1662197822919" duration="599000" />
+      <workItem from="1662208988908" duration="599000" />
+      <workItem from="1662232600789" duration="599000" />
+      <workItem from="1662383080903" duration="599000" />
+      <workItem from="1662401019572" duration="599000" />
+      <workItem from="1662658982329" duration="646000" />
+      <workItem from="1662666761952" duration="1234000" />
+      <workItem from="1662714102106" duration="1412000" />
+      <workItem from="1663096980131" duration="5580000" />
+      <workItem from="1663344566379" duration="599000" />
+      <workItem from="1663578014269" duration="609000" />
+      <workItem from="1663592344425" duration="19281000" />
+      <workItem from="1663950668589" duration="5296000" />
+      <workItem from="1664024883632" duration="1896000" />
+      <workItem from="1664046126419" duration="698000" />
+      <workItem from="1664052512638" duration="2621000" />
+      <workItem from="1664113204680" duration="2945000" />
+      <workItem from="1664267397047" duration="3647000" />
+      <workItem from="1664304317075" duration="4739000" />
+      <workItem from="1664379927858" duration="644000" />
+      <workItem from="1664647608542" duration="1093000" />
+      <workItem from="1666689601173" duration="1555000" />
+      <workItem from="1666772696991" duration="2867000" />
+      <workItem from="1666817573725" duration="615000" />
+      <workItem from="1666821709372" duration="599000" />
+      <workItem from="1666864159248" duration="1880000" />
+      <workItem from="1666945091766" duration="677000" />
+      <workItem from="1667237727252" duration="1215000" />
+      <workItem from="1667294549415" duration="1023000" />
+      <workItem from="1667387472185" duration="4139000" />
+      <workItem from="1667734137493" duration="1192000" />
+      <workItem from="1667743671107" duration="1870000" />
+      <workItem from="1667940172755" duration="2684000" />
+      <workItem from="1667985554973" duration="1144000" />
+      <workItem from="1668075024245" duration="2361000" />
+      <workItem from="1668162750131" duration="1844000" />
+      <workItem from="1668370731786" duration="3359000" />
+      <workItem from="1668721500140" duration="1865000" />
+      <workItem from="1669132900046" duration="629000" />
+      <workItem from="1669156042385" duration="602000" />
+      <workItem from="1671319708918" duration="1978000" />
+      <workItem from="1671390170255" duration="3699000" />
+      <workItem from="1671529654548" duration="2271000" />
+      <workItem from="1671833262327" duration="6048000" />
+      <workItem from="1672265330811" duration="604000" />
+      <workItem from="1672348097455" duration="1708000" />
+      <workItem from="1672439930504" duration="1688000" />
+      <workItem from="1672526670151" duration="628000" />
+      <workItem from="1672674671109" duration="1064000" />
+      <workItem from="1672692063927" duration="610000" />
+      <workItem from="1672738304196" duration="4000" />
+      <workItem from="1672757951705" duration="605000" />
+      <workItem from="1672852749619" duration="248000" />
+      <workItem from="1673042716687" duration="599000" />
+      <workItem from="1673043414329" duration="629000" />
+      <workItem from="1673188711730" duration="660000" />
+      <workItem from="1673284118232" duration="606000" />
+      <workItem from="1673468970980" duration="4286000" />
+      <workItem from="1673602735347" duration="1952000" />
+      <workItem from="1674143882998" duration="2177000" />
+      <workItem from="1674161177307" duration="599000" />
+      <workItem from="1674398226506" duration="1198000" />
+      <workItem from="1674512353002" duration="1212000" />
+      <workItem from="1674815232399" duration="99000" />
+      <workItem from="1675006074406" duration="599000" />
+      <workItem from="1675089491709" duration="6000" />
+      <workItem from="1675089508099" duration="750000" />
+      <workItem from="1675762295101" duration="8169000" />
+      <workItem from="1676056326155" duration="4243000" />
+      <workItem from="1676971150170" duration="4015000" />
+      <workItem from="1677069427171" duration="1856000" />
+      <workItem from="1677102374432" duration="3177000" />
+      <workItem from="1677506865929" duration="62000" />
+      <workItem from="1677506935239" duration="763000" />
+      <workItem from="1678107795295" duration="69000" />
+      <workItem from="1681909168073" duration="257000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1660921490256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660921490256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/refine_pose_with_input.py</url>
+          <line>258</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/refine_pose_with_input.py</url>
+          <line>256</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/refine_pose_with_input.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gen_diverse_grasp_ho3d.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_gen.py</url>
+          <line>433</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_gen.py</url>
+          <line>355</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_gen.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/loss.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/loss.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_gen.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_gen.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GraspTTA$refine_pose_with_input.coverage" NAME="new_gen Coverage Results" MODIFIED="1659036562590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraspTTA$gen_diverse_grasp_ho3d.coverage" NAME="gen_diverse_grasp_ho3d Coverage Results" MODIFIED="1659029841560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraspTTA$new_gen.coverage" NAME="new_gen Coverage Results" MODIFIED="1677145840118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraspTTA$interpolate.coverage" NAME="interpolate Coverage Results" MODIFIED="1677148400973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
