@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc3cb93a-296a-4743-9b80-1fadc073da71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pampjpe_err.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/change_datatype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/savemail_vlg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/savemain_Rui].py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/transfer_model_Rui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/transform_smpl_cpu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/tsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/vis_script/copy_body_4_postprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/vis_script/date_shape_smpl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/vis_script/merge_keypoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/vis_script/preprocess_mesh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/vis_script/process_add_translation_camera_wearer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/vis_script/repro_smpl_kinect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/vis_script/save_result_refined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/vis_script/vis_smpl_pkl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_model/vis_script/viskinect_smpl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer_pose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config_files/smplh2smplx.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config_files/smplh2smplx.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config_files/smplx2smpl.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config_files/smplx2smpl.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_model/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfer_model/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_model/optimizers/minimize.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfer_model/optimizers/minimize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_model/transfer_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfer_model/transfer_model.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AZaILHJJsjKDCymbg1riUAkuFT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rui/projects/sp2_ws/smplx_transfer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.debugger.python&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.transfer_model">
+    <configuration name="merge_keypoints" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="smplx_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/smplx/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/transfer_model/vis_script" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transfer_model/vis_script/merge_keypoints.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="repro_smpl_gaze" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="smplx_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/smplx/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/transfer_model/vis_script" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transfer_model/vis_script/repro_smpl_gaze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="repro_smpl_kinect" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="smplx_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/smplx/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/transfer_model/vis_script" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transfer_model/vis_script/repro_smpl_kinect.py" />
+      <option name="PARAMETERS" value="--scene_name cnb_dlab_0215" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transferSMPLX_Rui" type="PythonConfigurationType" factoryName="Python">
+      <module name="smplx_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/smplx/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="transfer_model" />
+      <option name="PARAMETERS" value="--exp-cfg config_files/smplh2smplx.yaml" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transfer_model" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="smplx_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/smplx/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="transfer_model" />
+      <option name="PARAMETERS" value="--exp-cfg config_files/smplh2smplx.yaml" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transfer_pose" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="smplx_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/smplx/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transfer_pose.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tsm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="smplx_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/smplx/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/transfer_model" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transfer_model/tsm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vis_smpl_pkl" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="smplx_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/smplx/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/transfer_model/vis_script" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transfer_model/vis_script/vis_smpl_pkl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.transfer_model" />
+      <item itemvalue="Python.tsm" />
+      <item itemvalue="Python.repro_smpl_gaze" />
+      <item itemvalue="Python.transferSMPLX_Rui" />
+      <item itemvalue="Python.merge_keypoints" />
+      <item itemvalue="Python.vis_smpl_pkl" />
+      <item itemvalue="Python.transfer_pose" />
+      <item itemvalue="Python.repro_smpl_kinect" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc3cb93a-296a-4743-9b80-1fadc073da71" name="Changes" comment="" />
+      <created>1655219480022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655219480022</updated>
+      <workItem from="1655219481224" duration="39400000" />
+      <workItem from="1655579662866" duration="3037000" />
+      <workItem from="1655637651454" duration="10406000" />
+      <workItem from="1655651687988" duration="3760000" />
+      <workItem from="1655659749405" duration="7617000" />
+      <workItem from="1655716728656" duration="6509000" />
+      <workItem from="1655741819213" duration="10740000" />
+      <workItem from="1655885201212" duration="10461000" />
+      <workItem from="1655910227937" duration="10231000" />
+      <workItem from="1655979943228" duration="6498000" />
+      <workItem from="1656059746743" duration="589000" />
+      <workItem from="1656060486088" duration="4797000" />
+      <workItem from="1656070780161" duration="10915000" />
+      <workItem from="1656165673074" duration="5345000" />
+      <workItem from="1656592467829" duration="2856000" />
+      <workItem from="1657361081116" duration="1354000" />
+      <workItem from="1657529100199" duration="1414000" />
+      <workItem from="1657558139974" duration="733000" />
+      <workItem from="1657613473304" duration="2766000" />
+      <workItem from="1657652427829" duration="3166000" />
+      <workItem from="1657701528504" duration="4748000" />
+      <workItem from="1658481897032" duration="660000" />
+      <workItem from="1659020270837" duration="1586000" />
+      <workItem from="1659470503345" duration="8330000" />
+      <workItem from="1659515984603" duration="22911000" />
+      <workItem from="1659771477497" duration="7113000" />
+      <workItem from="1659957218492" duration="3254000" />
+      <workItem from="1659973924733" duration="1880000" />
+      <workItem from="1660469130897" duration="2578000" />
+      <workItem from="1660646522691" duration="599000" />
+      <workItem from="1660677213957" duration="599000" />
+      <workItem from="1660682910143" duration="666000" />
+      <workItem from="1660815720842" duration="497000" />
+      <workItem from="1660830288663" duration="10893000" />
+      <workItem from="1660851876499" duration="1686000" />
+      <workItem from="1660914824897" duration="1199000" />
+      <workItem from="1660929312281" duration="7529000" />
+      <workItem from="1661157034997" duration="1234000" />
+      <workItem from="1661196608618" duration="603000" />
+      <workItem from="1661332637930" duration="615000" />
+      <workItem from="1661415906328" duration="358000" />
+      <workItem from="1661505420786" duration="3271000" />
+      <workItem from="1661591433728" duration="1253000" />
+      <workItem from="1661712485148" duration="11567000" />
+      <workItem from="1661894746450" duration="3420000" />
+      <workItem from="1662017651556" duration="8579000" />
+      <workItem from="1662197823815" duration="1219000" />
+      <workItem from="1662208989216" duration="1711000" />
+      <workItem from="1662232601037" duration="1216000" />
+      <workItem from="1662383081928" duration="1278000" />
+      <workItem from="1662401020592" duration="599000" />
+      <workItem from="1662658982657" duration="592000" />
+      <workItem from="1662666764661" duration="1858000" />
+      <workItem from="1662714392739" duration="1249000" />
+      <workItem from="1663096979768" duration="5260000" />
+      <workItem from="1663344565995" duration="674000" />
+      <workItem from="1663578026113" duration="891000" />
+      <workItem from="1663597359387" duration="8663000" />
+      <workItem from="1663702654027" duration="1420000" />
+      <workItem from="1663753408691" duration="2273000" />
+      <workItem from="1663838990816" duration="1386000" />
+      <workItem from="1663958805470" duration="3288000" />
+      <workItem from="1664024882494" duration="1518000" />
+      <workItem from="1664046082576" duration="43000" />
+      <workItem from="1664052537239" duration="2810000" />
+      <workItem from="1664113203663" duration="2761000" />
+      <workItem from="1664222655687" duration="671000" />
+      <workItem from="1664270486227" duration="2491000" />
+      <workItem from="1664304316690" duration="3651000" />
+      <workItem from="1664379927542" duration="633000" />
+      <workItem from="1664783216353" duration="15000" />
+      <workItem from="1666168991258" duration="1245000" />
+      <workItem from="1666690840261" duration="920000" />
+      <workItem from="1666730414419" duration="1674000" />
+      <workItem from="1667038824161" duration="982000" />
+      <workItem from="1667392135487" duration="8280000" />
+      <workItem from="1667558115355" duration="1017000" />
+      <workItem from="1667747121755" duration="3253000" />
+      <workItem from="1667766293051" duration="1805000" />
+      <workItem from="1667867408400" duration="1209000" />
+      <workItem from="1667942656174" duration="4738000" />
+      <workItem from="1668080806790" duration="1794000" />
+      <workItem from="1668169063344" duration="1477000" />
+      <workItem from="1668373421850" duration="4331000" />
+      <workItem from="1668505015742" duration="4336000" />
+      <workItem from="1668527524875" duration="180000" />
+      <workItem from="1668726685649" duration="1242000" />
+      <workItem from="1668949319332" duration="323000" />
+      <workItem from="1669033993479" duration="599000" />
+      <workItem from="1671360961768" duration="1331000" />
+      <workItem from="1671392818047" duration="2480000" />
+      <workItem from="1671529650094" duration="765000" />
+      <workItem from="1671833317823" duration="5508000" />
+      <workItem from="1672265312748" duration="1526000" />
+      <workItem from="1672350852666" duration="1270000" />
+      <workItem from="1672439907744" duration="1826000" />
+      <workItem from="1672692080761" duration="611000" />
+      <workItem from="1672852748151" duration="247000" />
+      <workItem from="1673431024107" duration="4064000" />
+      <workItem from="1674143794018" duration="747000" />
+      <workItem from="1674152200369" duration="658000" />
+      <workItem from="1674161179809" duration="1210000" />
+      <workItem from="1675766440487" duration="1256000" />
+      <workItem from="1675798863559" duration="1253000" />
+      <workItem from="1675972450569" duration="626000" />
+      <workItem from="1676065658880" duration="4777000" />
+      <workItem from="1676226664105" duration="1267000" />
+      <workItem from="1676885152620" duration="1267000" />
+      <workItem from="1676970877529" duration="2419000" />
+      <workItem from="1677011983282" duration="2438000" />
+      <workItem from="1677150551612" duration="2210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/release_renderer_kinect.py</url>
+          <line>174</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/preprocess_mesh.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/release_renderer_fpv_gaze.py</url>
+          <line>182</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/release_renderer_fpv_gaze.py</url>
+          <line>187</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_pose.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/transform_smpl_cpu.py</url>
+          <line>327</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/vis_smpl_pkl.py</url>
+          <line>217</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/repro_smpl_gaze.py</url>
+          <line>217</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/merge_keypoints.py</url>
+          <line>439</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/tsm.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/repro_smpl_kinect.py</url>
+          <line>291</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/eval_twistedbody.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/copy_body_4_postprocess.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/save_result_refined.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/repro_smpl_kinect.py</url>
+          <line>270</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/eval_twistedbody.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/vis_script/repro_smpl_kinect.py</url>
+          <line>263</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfer_model/transfer_model.py</url>
+          <line>529</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/smplx_transfer$copy_body_4_postprocess.coverage" NAME="copy_body_4_postprocess Coverage Results" MODIFIED="1659771419812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model/vis_script" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$vis_smpl_pkl.coverage" NAME="vis_smpl_pkl Coverage Results" MODIFIED="1659470664837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model/vis_script" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$release_renderer_fpv_gaze.coverage" NAME="release_renderer_fpv_gaze Coverage Results" MODIFIED="1655626672099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model/vis_script" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$release_renderer_kinect.coverage" NAME="repro_smpl_kinect Coverage Results" MODIFIED="1655355813567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model/vis_script" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$repro_smpl_kinect.coverage" NAME="repro_smpl_kinect Coverage Results" MODIFIED="1659973955509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model/vis_script" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$merge_keypoints.coverage" NAME="merge_keypoints Coverage Results" MODIFIED="1656233916581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model/vis_script" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$eval_twistedbody.coverage" NAME="eval_twistedbody Coverage Results" MODIFIED="1659862054955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model/vis_script" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$save_result_refined.coverage" NAME="save_result_refined Coverage Results" MODIFIED="1659819263847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model/vis_script" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$transfer_pose.coverage" NAME="transfer_pose Coverage Results" MODIFIED="1659861474846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$transfer_model.coverage" NAME="transfer_model Coverage Results" MODIFIED="1677150567359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$tsm.coverage" NAME="tsm Coverage Results" MODIFIED="1657615029495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$transferSMPLX_Rui.coverage" NAME="transferSMPLX_Rui Coverage Results" MODIFIED="1655887826977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$repro_smpl_gaze.coverage" NAME="repro_smpl_gaze Coverage Results" MODIFIED="1656102918978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model/vis_script" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$transform_smpl_cpu.coverage" NAME="transform_smpl_cpu Coverage Results" MODIFIED="1655999462243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model" />
+    <SUITE FILE_PATH="coverage/smplx_transfer$date_shape_smpl.coverage" NAME="date_shape_smpl Coverage Results" MODIFIED="1662017988943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer_model/vis_script" />
+  </component>
+</project>

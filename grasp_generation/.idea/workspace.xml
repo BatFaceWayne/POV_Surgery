@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dabb50e7-5426-4215-bf1f-ed84abd350d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/grabnet/tests/subsampling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grabnet/models/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/grabnet/models/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grabnet/tests/grab_new_objects.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Anh9mg8KxVW1AR0CxX8PWAtQuk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rui/projects/sp2_ws/GrabNet&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.debugger.python&quot;
+  }
+}</component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.subsampling">
+    <configuration name="grab_new_tools" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GrabNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/grabnet/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/grabnet" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grabnet/tests/grab_new_tools.py" />
+      <option name="PARAMETERS" value="--obj-path '$USER_HOME$/Downloads/disk_recon_handle.ply' --rhm-path ./mano/MANO_RIGHT.pkl --scale 1 --n-samples 100 --save_name Scalpel_first_100" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="subsampling" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GrabNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/grasptta/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grabnet/tests/subsampling.py" />
+      <option name="PARAMETERS" value="--obj-path '$USER_HOME$/Downloads/disk_recon_handle.ply' --rhm-path ./mano/MANO_RIGHT.pkl --scale 1 --n-samples 100 --save_name Scalpel_first_100" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.subsampling" />
+      <item itemvalue="Python.grab_new_tools" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dabb50e7-5426-4215-bf1f-ed84abd350d1" name="Changes" comment="" />
+      <created>1655651107410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655651107410</updated>
+      <workItem from="1655651108631" duration="436000" />
+      <workItem from="1655651607487" duration="73000" />
+      <workItem from="1655651687272" duration="1873000" />
+      <workItem from="1655659750006" duration="1332000" />
+      <workItem from="1657541988869" duration="833000" />
+      <workItem from="1658907816642" duration="770000" />
+      <workItem from="1659009074179" duration="2826000" />
+      <workItem from="1659020022911" duration="1325000" />
+      <workItem from="1659024039991" duration="3531000" />
+      <workItem from="1659028789246" duration="8000" />
+      <workItem from="1659029587156" duration="1391000" />
+      <workItem from="1659900657500" duration="610000" />
+      <workItem from="1660469149724" duration="11063000" />
+      <workItem from="1660646522115" duration="599000" />
+      <workItem from="1660677213716" duration="953000" />
+      <workItem from="1660682909841" duration="1374000" />
+      <workItem from="1660815722633" duration="4332000" />
+      <workItem from="1660851876915" duration="1015000" />
+      <workItem from="1660914825232" duration="599000" />
+      <workItem from="1660929312361" duration="599000" />
+      <workItem from="1661788832158" duration="2600000" />
+      <workItem from="1667294973311" duration="687000" />
+      <workItem from="1669286721836" duration="645000" />
+      <workItem from="1669631028775" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GrabNet$grab_new_tools.coverage" NAME="grab_new_tools Coverage Results" MODIFIED="1659024189482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grabnet" />
+    <SUITE FILE_PATH="coverage/GrabNet$subsampling.coverage" NAME="subsampling Coverage Results" MODIFIED="1661798707094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

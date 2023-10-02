@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6402b8b-8ecb-4d8f-84af-66d09610bc1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/pov_surgery/datautil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pov_surgery/pov_surgery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pov_surgery/pov_surgery_ultered_save.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/my_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/nets/mano_head.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/nets/mano_head.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/utils/mano.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/utils/mano.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/HO3D/HO3D.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/HO3D/HO3D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/hand_bbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/demo/hand_bbox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/hand_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/demo/hand_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/input.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/output.obj" beforeDir="false" afterPath="$PROJECT_DIR$/demo/output.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requiremets.sh" beforeDir="false" afterPath="$PROJECT_DIR$/requiremets.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KGr7S62EupKO1Udaw2MGH40ng4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rui/projects/sp2_ws/HandOccNet/main/my_test.py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.debugger.python&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.my_test">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HandOccNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/handoccnet/bin/python" />
+      <option name="SDK_NAME" value="handoccnet" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/demo.py" />
+      <option name="PARAMETERS" value="--gpu 0" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HandOccNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/handoccnet/bin/python" />
+      <option name="SDK_NAME" value="handoccnet" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/my_test.py" />
+      <option name="PARAMETERS" value="--gpu 0" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HandOccNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/handoccnet/bin/python" />
+      <option name="SDK_NAME" value="handoccnet" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/train.py" />
+      <option name="PARAMETERS" value="--gpu 0" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.my_test" />
+      <item itemvalue="Python.train" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6402b8b-8ecb-4d8f-84af-66d09610bc1e" name="Changes" comment="" />
+      <created>1673611592415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673611592415</updated>
+      <workItem from="1673611593726" duration="13877000" />
+      <workItem from="1673636976020" duration="1367000" />
+      <workItem from="1673638423768" duration="2753000" />
+      <workItem from="1673644069096" duration="27613000" />
+      <workItem from="1673796552338" duration="18173000" />
+      <workItem from="1673910512318" duration="1768000" />
+      <workItem from="1674033039648" duration="1151000" />
+      <workItem from="1674037287968" duration="1202000" />
+      <workItem from="1674514854431" duration="4025000" />
+      <workItem from="1674657126434" duration="2876000" />
+      <workItem from="1674680393353" duration="681000" />
+      <workItem from="1675160098010" duration="668000" />
+      <workItem from="1675161839805" duration="518000" />
+      <workItem from="1675164308953" duration="5703000" />
+      <workItem from="1675205371650" duration="4421000" />
+      <workItem from="1675285292215" duration="601000" />
+      <workItem from="1675466752569" duration="2043000" />
+      <workItem from="1676561167721" duration="10660000" />
+      <workItem from="1676630686603" duration="631000" />
+      <workItem from="1676910392438" duration="1191000" />
+      <workItem from="1677168143730" duration="608000" />
+      <workItem from="1677178263139" duration="11000" />
+      <workItem from="1677181833851" duration="615000" />
+      <workItem from="1677231693565" duration="1683000" />
+      <workItem from="1677262644407" duration="2086000" />
+      <workItem from="1677509597711" duration="2585000" />
+      <workItem from="1677513075561" duration="1114000" />
+      <workItem from="1677514306051" duration="1872000" />
+      <workItem from="1677578541423" duration="6596000" />
+      <workItem from="1677614070939" duration="4079000" />
+      <workItem from="1677693589720" duration="1581000" />
+      <workItem from="1677696586516" duration="1475000" />
+      <workItem from="1677836954919" duration="1375000" />
+      <workItem from="1678107765779" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/HO3D/HO3D.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/HO3D/HO3D.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/HO3D/HO3D.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/HO3D/HO3D.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/HO3D/HO3D.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/common/nets/mano_head.py</url>
+          <line>242</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/model.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/my_test.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/pov_surgery/pov_surgery.py</url>
+          <line>381</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/train.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/pov_surgery/pov_surgery.py</url>
+          <line>224</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/pov_surgery/pov_surgery.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/pov_surgery/pov_surgery.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/my_test.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HandOccNet$my_test.coverage" NAME="my_test Coverage Results" MODIFIED="1677695353783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/HandOccNet$demo.coverage" NAME="demo Coverage Results" MODIFIED="1673724577969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/HandOccNet$train.coverage" NAME="train Coverage Results" MODIFIED="1675285292617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+  </component>
+</project>

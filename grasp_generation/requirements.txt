@@ -1,0 +1,10 @@
+tensorboardX
+numpy>=1.16.2
+torchgeometry>=0.1.2
+pillow
+tqdm
+Ninja
+trimesh
+pyrender
+PyYAML
+

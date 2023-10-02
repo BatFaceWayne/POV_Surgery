@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MANO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bps_torch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bps_torch/mesh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chamfer_distance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mesh" vcs="Git" />
+  </component>
+</project>
