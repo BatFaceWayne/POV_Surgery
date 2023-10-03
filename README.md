@@ -1,8 +1,17 @@
 # POV_Surgery
 ### A Dataset for Egocentric Hand and Tool Pose Estimation During Surgical Activities (MICCAI 2023, Oral)
+![Statistics](assets/images/banner.png)
 [![project page](https://img.shields.io/badge/arxiv-report-red)](https://arxiv.org/abs/2008.11200)
 [![report](https://colab.research.google.com/assets/colab-badge.svg)](https://arxiv.org/abs/2008.11200)
+
+![Statistics](assets/images/statistics.png)
+Check out the YouTube videos below for more details.
+
+| Video Description (with audio) | Overview Video |
+| :---: | :---: |
+|  [![LongVideo](assets/images/presentation.png)](https://www.youtube.com/watch?v=CfCCzEO_3D8) | [![ShortVideo](assets/images/overview.png)](https://www.youtube.com/watch?v=CaOEwoFHZc0&t=9s) |  
 ## Coponents
+![pipeline](assets/images/pipeline.jpg)
 - POV Surgery Dataset visualization and reproject utilities
 -  Synthetic data generation pipeline 
 - 
@@ -39,7 +48,8 @@ Please prepare the data as follows: MANO/SMPLX
     ├── pose_fusion
     ├── pre_rendering
     ├── blender_rendering
-    └── HandOccNet_ft
+    ├── HandOccNet_ft
+    └── vis_data
 
 ```
 Basic setup for the project. (Dataset reprojection utilities, etc.)
