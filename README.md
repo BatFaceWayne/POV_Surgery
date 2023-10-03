@@ -65,7 +65,7 @@ Please register yourself at [SMPL-X](https://smpl-x.is.tue.mpg.de/login.php) and
     └── vis_data
 
 ```
-## Envronment
+## Environment
 We recommend create a python 3.8 environment with conda. Install [pytorch](https://pytorch.org) and [torchvision](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjR4K2m8NmBAxVNSfEDHeMhCNAQFnoECBgQAQ&url=https%3A%2F%2Fpytorch.org%2Fvision%2F&usg=AOvVaw1cAB7MRIgRgtMiD3UKEL-9&opi=89978449) that suits you operation system. For example, if you are using cuda 11.8 version, you could use:
 
 ```Shell
