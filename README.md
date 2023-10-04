@@ -8,7 +8,7 @@ This is the official code release for POV Surgery at MICCAI 2023.
 [![Dataset](https://img.shields.io/badge/Paper-publication-blue)](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_42)
 [![project page](https://img.shields.io/badge/project-page-blue)](https://batfacewayne.github.io/POV_Surgery_io/)
 [![Dataset](https://img.shields.io/badge/Dataset-download-red)](https://drive.google.com/drive/folders/1nSDig2cEHscCPgG10-VcSW3Q1zKge4tP?usp=drive_link)
-[![report](https://img.shields.io/badge/Arxiv-report-red)](https://drive.google.com/drive/folders/1nSDig2cEHscCPgG10-VcSW3Q1zKge4tP?usp=drive_link)
+[![report](https://img.shields.io/badge/Arxiv-report-red)](https://arxiv.org/abs/2307.10387)
 [![demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gX2Vg0dBb0xqzl5vIipwOPV5HarlOlYn?usp=sharing)
 ![Statistics](assets/images/statistics.png)
 Check out the POVSurgery YouTube videos below for more details.
