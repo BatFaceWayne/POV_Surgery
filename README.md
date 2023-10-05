@@ -19,15 +19,16 @@ Check out the POVSurgery YouTube videos below for more details.
 ## Components
 ![pipeline](assets/images/pipeline.jpg)
 #### Synthetic data generation pipeline 
-- diverse hand tool grasping generation
-- hand-tool grasping refinement and interpolation
-- body pose and hand sequence fusion
-- pre-rendering and groud truth generation scipts
-- blender rendering scripts
+- [diverse hand tool grasping generation](./grasp_generation/README.md)
+- [hand-tool grasping refinement and interpolation](./grasp_refinement/README.md)
+- [body pose and hand sequence fusion](./pose_fusion/README.md)
+- [pre-rendering and groud truth generation scipts](./pre_rendering/README.md)
+- [blender rendering scripts](./blender_rendering/README.md)
+- [SMPLX Texture](https://drive.google.com/drive/folders/1nSDig2cEHscCPgG10-VcSW3Q1zKge4tP?usp=drive_link)
 #### POV-Surgery dataset utilities
-- Ground truth reprojection and visualization scripts
+- [Ground truth reprojection and visualization scripts](./vis_data/)
 #### Fine-tuning demo code
-- HandOccNet training and testing code
+- [HandOccNet training and testing code](./HandOccNet_ft/README.md)
 ## Dataset Usage
 Please download the dataset POV_Surgery_data.zip at [POV-Surgery](https://drive.google.com/drive/folders/1nSDig2cEHscCPgG10-VcSW3Q1zKge4tP?usp=drive_link), unzip it and put it in a desired location. Please remember that if you wish to download and utilize our dataset, compliance with the licensing conditions is mandatory. Our proposed dataset contains 53 egocentric RGB-D sequences with 88k frames and accurate 2D/3D hand-object pose annotations. Here's a teaser of our dataset:
 | RGB-D and Annotation | Dataset Overview |
