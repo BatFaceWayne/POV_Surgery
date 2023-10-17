@@ -102,12 +102,11 @@ Wang, R., Ktistakis, S., Zhang, S., Meboldt, M., Lohmeyer, Q. (2023). POV-Surger
 
 ## BibTeX
 ```
-@misc{wang2023povsurgery,
-      title={POV-Surgery: A Dataset for Egocentric Hand and Tool Pose Estimation During Surgical Activities}, 
-      author={Rui Wang and Sophokles Ktistakis and Siwei Zhang and Mirko Meboldt and Quentin Lohmeyer},
-      year={2023},
-      eprint={2307.10387},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{wang2023pov,
+  title={POV-Surgery: A Dataset for Egocentric Hand and Tool Pose Estimation During Surgical Activities},
+  author={Wang, Rui and Ktistakis, Sophokles and Zhang, Siwei and Meboldt, Mirko and Lohmeyer, Quentin},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={440--450},
+  year={2023}
 }
 ```
