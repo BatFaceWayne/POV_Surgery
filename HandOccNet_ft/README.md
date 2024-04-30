@@ -8,4 +8,5 @@ Then install the dependencies in requirements.sh.
 sh requirements.sh
 ```
 
-## 
+## Testing
+For testing, please use 'my_test.py' to compute the metrics. The script will output the results as a text file.
